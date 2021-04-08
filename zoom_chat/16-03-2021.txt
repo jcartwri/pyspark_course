@@ -1,0 +1,50 @@
+19:01:14	 From Nikita Mospan : +
+19:01:15	 From Юлия Семеновых : +
+19:01:20	 From Алексей Гуров  : +
+19:01:20	 From efimovin : +
+19:01:21	 From Яков Захаров : +
+19:01:22	 From Константин Барышев : +
+19:01:22	 From Nazim Dzhavadov : +
+19:01:28	 From Алексей Шайманов : + (без комита на гит)
+19:05:15	 From Kuznetsov-AlexV : +
+19:05:19	 From Фархад Сабилов : +
+19:05:22	 From Дмитрий Варюхин : -
+19:06:11	 From Дмитрий Варюхин : Может продлить лекцию до 23:59 :)
+19:20:29	 From Alexey Ca : время на сайте
+19:20:34	 From Юлия Семеновых : Доля кликов
+19:20:58	 From efimovin : df_train.groupBy("user_id").mean("purchase")
+19:22:03	 From Sergey Polyakhov : а почему вы тогда находите сумму а не  mean?
+19:25:41	 From Валерия Парамонова : +
+19:25:42	 From Алексей Шайманов : +
+19:25:43	 From Юлия Семеновых : +
+19:25:43	 From Sergey Polyakhov : +
+19:25:46	 From Азалия : +
+19:25:46	 From Nikita Mospan : +
+19:25:47	 From efimovin : .89
+19:25:56	 From Денис Иващенко : +
+19:27:53	 From Валерия Парамонова : проходит
+19:31:10	 From Константин Барышев : А качество на private тоже в районе 0.88 получилось?
+19:34:34	 From Фархад Сабилов : а куда именно залили?
+19:34:41	 From Михаил Новиков (куратор) : https://github.com/newprolab/sber-spark-ds-5/tree/master/solutions
+19:34:54	 From Фархад Сабилов : спасибо\
+19:38:58	 From Михаил Новиков (куратор) : Поменял папку с решениями, чтобы не путались с вашими коммитами https://github.com/newprolab/sber-spark-ds-5/tree/master/labs/Solutions
+19:40:54	 From Михаил Новиков (куратор) : https://github.com/newprolab/sber-spark-ds-5/tree/master/labs/solutions
+19:44:08	 From Nikita Mospan : да
+19:44:56	 From Kuznetsov-AlexV : секрет успеха
+19:45:11	 From Natalya Pritykovskaya : =)))
+19:45:29	 From Михаил Новиков (куратор) : подняли до 22 машин :)
+20:00:40	 From Kuznetsov-AlexV : можно было схлопнуть некоторые жанры - Драма, Драмы
+20:01:15	 From Nikita Mospan : Ну это же семантический анализ надо проводить=)
+20:02:10	 From Kuznetsov-AlexV : через Array можно было, sparse_to_array и обратно array_to_vectorudt
+20:10:35	 From Nikita Mospan : Да, читал эту историю =)
+20:19:18	 From Kuznetsov-AlexV : NYT 2012 по-моему
+20:19:20	 From Nikita Mospan : С неё многие книжки по ML начинают=)
+20:45:20	 From Sergey Polyakhov : время просмотра?
+20:46:01	 From Юлия Семеновых : Время проведенное на сайте
+20:48:00	 From Дмитрий Варюхин : Вот описание рекомендательных систем знаменитых сервисов https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html?m=1
+20:56:21	 From Kuznetsov-AlexV : count
+21:07:12	 From Александр Седых : 1
+21:14:52	 From Александр Седых : У меня возникли проблемы с сохранением данных в нужных форматах
+21:15:17	 From Александр Седых : Создать json
+21:15:55	 From Александр Седых : OK, спасибо
+21:17:47	 From Фархад Сабилов : спасибо

@@ -1,0 +1,50 @@
+# Распределение участников по мастер-нодам
+
+| spark-master-3.newprolab.com   | spark-master-4.newprolab.com   |
+| :----------------------------: | :----------------------------: |
+|   abdurakhim.ganiev            |   alexander.andreevskiy        |
+|   alexander.klyasov            |   alexander.kuznetsov          |
+|   alexander.okhilkov           |   alexander.sedykh             |
+|   alexander.smetanin           |   alexandra.zaytseva           |
+|   alexey.borisikhin            |   alexey.gurov                 |
+|   alexey.kalaburdin            |   alexey.muratov               |
+|   alexey.shaymanov             |   andrey.blednykh              |
+|   andrey.frolov                |   andrey.karavaev              |
+|   anton.serkov                 |   azalia.buryan                |
+|   azat.khasanov                |   daria.ivanova                |
+|   denis.ivashchenko            |   denis.noritsin               |
+|   denis.sabanov                |   denis.shilov                 |
+|   dmitry.glushakov             |   dmitry.ulogov                |
+|   dmitry.varyukhin             |   dmitry.zverkov               |
+|   ekaterina.khabarova          |   ekaterina.medvedeva          |
+|   elena.kutemova               |   evgeniy.chervyakov           |
+|   evgeniy.osipchuk             |   evgeniy.samarin              |
+|   evgeniy.zhalilo              |   farhad.sabilov               |
+|   filipp.isaenko               |   grigory.mysov                |
+|   ilya.efimov                  |   ilya.karpenko                |
+|   ilya.nabatchikov             |   irina.zhuravleva             |
+|   ivan.pankov                  |   ivan.strazov                 |
+|   konstantin.barinov           |   konstantin.baryshev          |
+|   konstantin.matveev           |   ksenia.kutsevol              |
+|   lyudmila.cheldieva           |   maria.godgildieva            |
+|   maxim.udachin                |   mikhail.byvshikh             |
+|   mikhail.mamaev               |   nazim.dzhavadov              |
+|   nikita.mospan                |   nikita.rysin                 |
+|   nikita.sidorov               |   nikolay.krupiy               |
+|   ochir.dorzhiev               |   olga.ilyasova                |
+|   pavel.golovnyak              |   pavel.khlopotin              |
+|   pavel.skladnev               |   pavel.treboganov             |
+|   ramil.mamedov                |   roman.kovalchuk              |
+|   roman.matiiv                 |   sergey.androsov              |
+|   sergey.polyakhov             |   sergey.taran                 |
+|   svetlana.potapova            |   tatiana.dvoryaninova         |
+|   tatiana.inkhireeva           |   tengiz.akbaev                |
+|   timur.moskov                 |   valeria.paramonova           |
+|   vardan.kazaryan              |   vladimir.belov               |
+|   vladimir.khrenov             |   vladimir.vlasov              |
+|   vladislav.rozhdestvenskiy    |   yakov.zakharov               |
+|   yulia.semenovykh             |   vitaly.monastyrev            |
+|   andrey.kachetov              |   zarina.kamytbaeva            |
+
+
+
